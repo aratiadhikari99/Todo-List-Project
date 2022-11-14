@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/main.8caaee12.chunk.js",
+    "main.js.map": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/main.8caaee12.chunk.js.map",
+    "runtime-main.js": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/runtime-main.641ef559.js",
+    "runtime-main.js.map": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/runtime-main.641ef559.js.map",
+    "static/js/2.83133fa3.chunk.js": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/2.83133fa3.chunk.js",
+    "static/js/2.83133fa3.chunk.js.map": "https://aratiadhikari99.github.io/csb-t3oivg/static/js/2.83133fa3.chunk.js.map",
+    "index.html": "https://aratiadhikari99.github.io/csb-t3oivg/index.html",
+    "precache-manifest.ddc58461af44be6545aa164b45a543ae.js": "https://aratiadhikari99.github.io/csb-t3oivg/precache-manifest.ddc58461af44be6545aa164b45a543ae.js",
+    "service-worker.js": "https://aratiadhikari99.github.io/csb-t3oivg/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.641ef559.js",
+    "static/js/2.83133fa3.chunk.js",
+    "static/js/main.8caaee12.chunk.js"
+  ]
+}
